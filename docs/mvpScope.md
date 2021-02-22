@@ -24,6 +24,8 @@ In this document we will define the MVP of the CabQ project, This will be the pr
   - Users can also mark their own session as completed
   - Estimate based off average time to play, Prompt users after the "Average" time is up
 - See what user is currently playing on the cab your queued for.
+- Users will be warned about long queue wait times
+- Users can see the average wait time &/ average game time
 
 ### Arcade PSA / Announcements / Community hubs
 - Game specific PSAs
